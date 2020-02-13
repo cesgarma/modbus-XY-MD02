@@ -74,6 +74,14 @@ To setup python 3.7.6 as global so any python command from any shell will use it
 ```
 $ pyenv global 3.7.6
 ```
+
+## Install minimalmodbus
+The [minimalmodbus](https://minimalmodbus.readthedocs.io/en/master/index.html) provides simple connectiviy to devices connected using ModBus. Find full documentation on their website.
+
+```
+pip install minimalmodbus
+```
+
 You are ready to go!
 
 # Run the script
